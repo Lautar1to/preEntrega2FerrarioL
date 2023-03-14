@@ -10,31 +10,31 @@ document.addEventListener('DOMContentLoaded', () => {
           id: 2,
           nombre: 'Monitor Noblex 27"',
           precio: 43000,
-          imagen: '../img/monitor.webp'
+          imagen: 'img/monitor.webp'
       },
       {
           id: 3,
           nombre: 'Celular Tcl 305i',
           precio: 94000,
-          imagen: '../img/celular.webp'
+          imagen: 'celular.webp'
       },
       {
           id: 4,
           nombre: 'Smartwatch Grow Home',
           precio: 65000,
-          imagen: '../img/reloj.webp'
+          imagen: 'img/reloj.webp'
       },
       {
         id: 5,
         nombre: 'Lavarropas Columbia 10kg',
         precio: 23000,
-        imagen: '../img/Lavarropas Columbia 10kg.webp'
+        imagen: 'img/Lavarropas Columbia 10kg.webp'
     },
     {
         id: 6,
         nombre: 'Microondas Bgh 20lt Gris',
         precio: 24000,
-        imagen: '../img/Microondas Bgh 20lt Gris.webp'
+        imagen: 'img/Microondas Bgh 20lt Gris.webp'
     }
   ];
 
