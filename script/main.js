@@ -10,13 +10,13 @@ document.addEventListener('DOMContentLoaded', () => {
           id: 2,
           nombre: 'Monitor Noblex 27"',
           precio: 43000,
-          imagen: 'img/monitor.webp'
+          imagen: 'img/Monitor.webp'
       },
       {
           id: 3,
           nombre: 'Celular Tcl 305i',
           precio: 94000,
-          imagen: 'celular.webp'
+          imagen: 'img/celular.webp'
       },
       {
           id: 4,
